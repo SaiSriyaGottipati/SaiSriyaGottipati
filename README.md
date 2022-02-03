@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiSriyaGottipati
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning dbms ,webapps and java
+- 🌱 I’m currently learning dbms,webapps and java
 - 💞️ I’m looking to collaborate on a start-up
 - 📫 How to reach me -by call
 
